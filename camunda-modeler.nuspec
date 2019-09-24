@@ -12,8 +12,9 @@
     <projectUrl>https://github.com/apache/camel-k</projectUrl>
     <packageSourceUrl>https://github.com/staylorx/chocolatey_kamel</packageSourceUrl>
     <projectSourceUrl>https://github.com/apache/camel-k</projectSourceUrl>
-    <docsUrl>https://github.com/apache/camel-k</docsUrl>
+    <docsUrl>https://camel.apache.org/camel-k/latest/</docsUrl>
     <tags>camel kubernetes k8s cli</tags>
+    <imageUrl>https://camel.apache.org/_/img/logo-d.svg</imageUrl>
     <licenseUrl>https://github.com/apache/camel-k/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
