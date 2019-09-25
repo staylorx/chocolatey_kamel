@@ -9,7 +9,7 @@
     <summary>Command-line interface client for Apache Camel on Kubernetes</summary>
     <description>Camel K allows to run integrations directly on a Kubernetes or OpenShift cluster. To use it, you need to be connected to a cloud environment or to a local cluster created for development purposes.
     </description>
-    <projectUrl>https://github.com/apache/camel-k</projectUrl>
+    <projectUrl>https://camel.apache.org/projects/camel-k/</projectUrl>
     <packageSourceUrl>https://github.com/staylorx/chocolatey_kamel</packageSourceUrl>
     <projectSourceUrl>https://github.com/apache/camel-k</projectSourceUrl>
     <docsUrl>https://camel.apache.org/camel-k/latest/</docsUrl>
