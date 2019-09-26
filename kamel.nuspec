@@ -18,7 +18,6 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
     </dependencies>
-    <iconUrl>https://camel.apache.org/_/img/logo-d.svg</iconUrl>
     <releaseNotes>https://github.com/apache/camel-k/releases/</releaseNotes>
   </metadata>
 </package>
