@@ -1,10 +1,10 @@
 $ErrorActionPreference = 'Stop'
 
 $PackageName = 'kamel'
-$url32       = 'https://github.com/apache/camel-k/releases/download/1.0.0-M1/camel-k-client-1.0.0-M1-windows-64bit.tar.gz'
-$url64       = 'https://github.com/apache/camel-k/releases/download/1.0.0-M1/camel-k-client-1.0.0-M1-windows-64bit.tar.gz'
-$checksum32  = '1B27A7CF5F948CAA6A21A4313CEBE73B4C37F94D2EE79A0C8994E7E9956C2136'
-$checksum64  = '1B27A7CF5F948CAA6A21A4313CEBE73B4C37F94D2EE79A0C8994E7E9956C2136'
+$url32       = 'https://github.com/apache/camel-k/releases/download/1.0.0-M2/camel-k-client-1.0.0-M2-windows-64bit.tar.gz'
+$url64       = 'https://github.com/apache/camel-k/releases/download/1.0.0-M2/camel-k-client-1.0.0-M2-windows-64bit.tar.gz'
+$checksum32  = '81CCEDCCB774988F48049B74E3D029714D1C9B864A910802FFF8F24E1F01AC50'
+$checksum64  = '81CCEDCCB774988F48049B74E3D029714D1C9B864A910802FFF8F24E1F01AC50'
 
 $packageArgs = @{
   packageName    = $packageName
