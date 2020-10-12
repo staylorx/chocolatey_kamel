@@ -3,7 +3,7 @@
   <metadata>
     <id>kamel</id>
     <title>Apache Camel-K CLI</title>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <authors>https://github.com/apache/camel-k/graphs/contributors</authors>
     <owners>staylorx</owners>
     <summary>Command-line interface client for Apache Camel on Kubernetes</summary>
